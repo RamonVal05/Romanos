@@ -1,14 +1,13 @@
 int  numero = 0;
-int romano = 0;
-String res ='';
+String romano='';
 
-String conversion  (int num1, int numr){
+String conversion  (int num){
 
-  int num = num1;
-  String rom = numr;
+  int num1 = num;
+  String rom = 
 
   if(num == 1){
     rom = 'I';
   }
-  return '';
+  return rom;
 }
